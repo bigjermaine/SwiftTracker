@@ -75,7 +75,7 @@
 		D067D8D02B0FBC37002EE30E /* DeleteList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteList.swift; sourceTree = "<group>"; };
 		D067D8D22B0FBE5F002EE30E /* PredictionDetails2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredictionDetails2.swift; sourceTree = "<group>"; };
 		D067D8D42B0FBF58002EE30E /* AdminMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdminMainView.swift; sourceTree = "<group>"; };
-		D06D16BC2AD15BF900B25CC7 /* BetBudd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetBudd.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D06D16BC2AD15BF900B25CC7 /* SwiftTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D06D16BF2AD15BF900B25CC7 /* BetBuddApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetBuddApp.swift; sourceTree = "<group>"; };
 		D06D16C12AD15BF900B25CC7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D06D16C32AD15BFB00B25CC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -154,7 +154,7 @@
 		D06D16B32AD15BF900B25CC7 = {
 			isa = PBXGroup;
 			children = (
-				D06D16BE2AD15BF900B25CC7 /* BetBudd */,
+				D06D16BE2AD15BF900B25CC7 /* SwiftTracker */,
 				D06D16BD2AD15BF900B25CC7 /* Products */,
 				D0AEEB9D2AF982A7008DADD7 /* Frameworks */,
 				75D250F2383D70A805C366DB /* Pods */,
@@ -164,12 +164,12 @@
 		D06D16BD2AD15BF900B25CC7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D06D16BC2AD15BF900B25CC7 /* BetBudd.app */,
+				D06D16BC2AD15BF900B25CC7 /* SwiftTracker.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D06D16BE2AD15BF900B25CC7 /* BetBudd */ = {
+		D06D16BE2AD15BF900B25CC7 /* SwiftTracker */ = {
 			isa = PBXGroup;
 			children = (
 				D0F01CD22B0F451900DAF215 /* BetBudd.entitlements */,
@@ -187,7 +187,7 @@
 				D06D16C32AD15BFB00B25CC7 /* Assets.xcassets */,
 				D06D16C52AD15BFB00B25CC7 /* Preview Content */,
 			);
-			path = BetBudd;
+			path = SwiftTracker;
 			sourceTree = "<group>";
 		};
 		D06D16C52AD15BFB00B25CC7 /* Preview Content */ = {
@@ -358,9 +358,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D06D16BB2AD15BF900B25CC7 /* BetBudd */ = {
+		D06D16BB2AD15BF900B25CC7 /* SwiftTracker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D06D16CA2AD15BFB00B25CC7 /* Build configuration list for PBXNativeTarget "BetBudd" */;
+			buildConfigurationList = D06D16CA2AD15BFB00B25CC7 /* Build configuration list for PBXNativeTarget "SwiftTracker" */;
 			buildPhases = (
 				29C1FAB6D369AF65F6775640 /* [CP] Check Pods Manifest.lock */,
 				D06D16B82AD15BF900B25CC7 /* Sources */,
@@ -373,7 +373,7 @@
 			);
 			dependencies = (
 			);
-			name = BetBudd;
+			name = SwiftTracker;
 			packageProductDependencies = (
 				D0CC1DF62AF749EF00B0136E /* SwiftUICharts */,
 				D0CBC9B82BED57CC00DC7815 /* FirebaseAnalytics */,
@@ -383,7 +383,7 @@
 				D0CBC9C02BED57CC00DC7815 /* FirebaseAppCheck */,
 			);
 			productName = BetBudd;
-			productReference = D06D16BC2AD15BF900B25CC7 /* BetBudd.app */;
+			productReference = D06D16BC2AD15BF900B25CC7 /* SwiftTracker.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -401,7 +401,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D06D16B72AD15BF900B25CC7 /* Build configuration list for PBXProject "BetBudd" */;
+			buildConfigurationList = D06D16B72AD15BF900B25CC7 /* Build configuration list for PBXProject "SwiftTracker" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -418,7 +418,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D06D16BB2AD15BF900B25CC7 /* BetBudd */,
+				D06D16BB2AD15BF900B25CC7 /* SwiftTracker */,
 			);
 		};
 /* End PBXProject section */
@@ -684,7 +684,7 @@
 				DEVELOPMENT_TEAM = HNS64TAJ9X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = BetBudd/Info.plist;
+				INFOPLIST_FILE = SwiftTracker/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Bet Help";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -721,7 +721,7 @@
 				DEVELOPMENT_TEAM = HNS64TAJ9X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = BetBudd/Info.plist;
+				INFOPLIST_FILE = SwiftTracker/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Bet Help";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -748,7 +748,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D06D16B72AD15BF900B25CC7 /* Build configuration list for PBXProject "BetBudd" */ = {
+		D06D16B72AD15BF900B25CC7 /* Build configuration list for PBXProject "SwiftTracker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D06D16C82AD15BFB00B25CC7 /* Debug */,
@@ -757,7 +757,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D06D16CA2AD15BFB00B25CC7 /* Build configuration list for PBXNativeTarget "BetBudd" */ = {
+		D06D16CA2AD15BFB00B25CC7 /* Build configuration list for PBXNativeTarget "SwiftTracker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D06D16CB2AD15BFB00B25CC7 /* Debug */,
