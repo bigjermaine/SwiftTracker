@@ -1,4 +1,4 @@
-er
+
 SwiftTracker is an open-source SwiftUI application designed to demonstrate modern best
 practices in state management, data persistence, and modular architecture for iOS
 development. While it provides a fully functional personal spending tracker, its broader
