@@ -1,15 +1,18 @@
-SwiftTracker
-SwiftTracker is a simple, user-friendly iOS app built with SwiftUI to help users track and manage their betting or spending habits. It promotes responsible behavior by providing insights into trends, logs, and alerts to encourage informed decisions.
-Features
+🧭 SwiftTracker
+SwiftTracker is an intuitive iOS app built with SwiftUI that empowers users to track, understand, and manage their betting and spending habits.
+Designed with a focus on responsible behavior and data-driven insights, the app helps users make informed financial decisions through trend visualization and real-time alerts.
 
-Habit Logging: Easily log bets or expenses with details like amount, date, and category.
-Trend Analysis: Visualize spending patterns with charts and summaries.
-Alerts and Reminders: Set limits and receive notifications when approaching thresholds.
-Secure Data Storage: Local storage with optional encryption for privacy.
-Cross-Device Sync: Basic iCloud integration for data backup (optional).
-Customizable UI: Dark/light mode support and intuitive interface.
+🚀 Key Features
+Habit Logging – Record bets or expenses with amount, category, and date to maintain accurate activity logs.
+Trend Analysis – View interactive charts and summaries that reveal spending or betting trends over time.
+Smart Alerts & Reminders – Receive notifications when nearing spending limits or custom thresholds.
+Secure Local Storage – All data is stored on-device, with optional encryption to protect privacy.
+Cross-Device Sync (Optional) – Seamless backup and synchronization via iCloud for easy restoration.
+Customizable Interface – Supports Dark/Light Mode and features a clean, minimal SwiftUI design for effortless navigation.
 
-Installation
 
-Clone the repository:
-textgit clone https://github.com/bigjermaine/SwiftTracker.git
+🛠️ Installation
+git clone https://github.com/bigjermaine/SwiftTracker.git
+cd SwiftTracker
+open SwiftTracker.xcodeproj
+Then build and run the project using Xcode 15+ on iOS 17 or later.
