@@ -37,7 +37,11 @@ Enjoy a minimalist SwiftUI interface that automatically adapts to Dark or Light 
 Ready to get tracking? Follow these simple steps:
 
 Clone the repository:bashgit clone https://github.com/bigjermaine/SwiftTracker.git
+
 Navigate to the project directory:bashcd SwiftTracker
+
 Open in Xcode:bashopen SwiftTracker.xcodeproj
+
 Build and run:
+
 Use Xcode 15 or later to compile and launch on a device or simulator running iOS 17+. That's it—start logging your first entry!
