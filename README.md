@@ -1,7 +1,6 @@
 
- SwiftTracker
-SwiftTracker is a sleek, intuitive iOS app crafted with SwiftUI to help you effortlessly track, analyze, and take control of your betting and spending habits. Prioritizing responsible practices and actionable insights, it transforms raw data into clear visualizations and timely alerts—empowering you to make smarter financial choices with confidence.
-
+SwiftTracker
+SwiftTracker advanced the space by reframing gambling tracking from passive logging to proactive, behavior-aware intervention using real-time insights and alerts.
 
 
 🚀 Key Features
