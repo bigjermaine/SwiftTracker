@@ -2,8 +2,7 @@
 SwiftTracker
 SwiftTracker advanced the space by reframing gambling tracking from passive logging to proactive, behavior-aware intervention using real-time insights and alerts.
 
-
-🚀 Key Features
+Key Features
 
 Seamless Habit Logging
 
@@ -30,7 +29,7 @@ Adaptive, User-Friendly Design
 Enjoy a minimalist SwiftUI interface that automatically adapts to Dark or Light Mode. Intuitive navigation ensures a frustration-free experience on any iPhone or iPad.
 
 
-🛠️ Quick Start Guide
+Quick Start Guide
 Ready to get tracking? Follow these simple steps:
 
 Clone the repository:bashgit clone https://github.com/bigjermaine/SwiftTracker.git
