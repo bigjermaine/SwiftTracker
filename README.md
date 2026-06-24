@@ -1,6 +1,6 @@
 
 SwiftTracker
-SwiftTracker advanced the space by reframing gambling tracking from passive logging to proactive, behavior-aware intervention using real-time insights and alerts.
+SwiftTracker advanced the space by reframing  tracking from passive logging to , behavior-aware intervention using real-time insights and alerts.
 
 Key Features
 
