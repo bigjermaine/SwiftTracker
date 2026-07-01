@@ -1,43 +1,32 @@
-
 SwiftTracker
-SwiftTracker advanced the space by reframing  tracking from passive logging to , behavior-aware intervention using real-time insights and alerts.
+SwiftTracker turns everyday spending and betting into actionable habits—not just a log. Instead of passively recording transactions, it uses real-time insights and smart alerts to help you spot patterns early and stay in control.
 
 Key Features
+Seamless habit logging
+Log bets or expenses in seconds with amount, category, and date. Build a clear, searchable history without friction.
 
-Seamless Habit Logging
+Insightful trend analysis
+Interactive charts and summaries reveal how your behavior changes over days, weeks, and months—so you can catch trends before they become problems.
 
-Quickly log bets or expenses by entering amounts, categories, and dates. Build a precise, searchable history of your activity in seconds.
+Intelligent alerts & reminders
+Custom push notifications warn you when you’re nearing spending limits, daily thresholds, or personal goals.
 
-Insightful Trend Analysis
+Privacy-first storage
+Your data stays on your device by default, with optional end-to-end encryption. No cloud required unless you choose it.
 
-Dive into interactive charts, graphs, and summaries that uncover patterns in your spending or betting over days, weeks, or months. Spot trends before they become problems.
+Optional cross-device sync
+Turn on iCloud for automatic backups and seamless sync across your Apple devices.
 
-Intelligent Alerts & Reminders
+Adaptive, user-friendly design
+A clean SwiftUI interface that respects Light and Dark Mode, with intuitive navigation on iPhone and iPad.
 
-Stay ahead with customizable push notifications—get warned when you're approaching spending limits, daily thresholds, or personal goals.
+Quick Start
+Requirements: Xcode 15+, iOS 17+ (simulator or device)
 
-Privacy-First Secure Storage
+git clone https://github.com/bigjermaine/SwiftTracker.git
+cd SwiftTracker
+open SwiftTracker.xcodeproj
+Build and run in Xcode (⌘R), then log your first entry.
 
-All your data stays safely on-device, with optional end-to-end encryption to safeguard your information. No cloud required unless you choose it.
-
-Effortless Cross-Device Sync (Optional)
-
-Enable iCloud integration for automatic backups and seamless syncing across your Apple devices—never lose your progress.
-
-Adaptive, User-Friendly Design
-
-Enjoy a minimalist SwiftUI interface that automatically adapts to Dark or Light Mode. Intuitive navigation ensures a frustration-free experience on any iPhone or iPad.
-
-
-Quick Start Guide
-Ready to get tracking? Follow these simple steps:
-
-Clone the repository:bashgit clone https://github.com/bigjermaine/SwiftTracker.git
-
-Navigate to the project directory:bashcd SwiftTracker
-
-Open in Xcode:bashopen SwiftTracker.xcodeproj
-
-Build and run:
-
-Use Xcode 15 or later to compile and launch on a device or simulator running iOS 17+. That's it—start logging your first entry!
+Optional one-liner (for GitHub tagline)
+Behavior-aware spending and betting tracker with on-device privacy, smart alerts, and optional iCloud sync.
