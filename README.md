@@ -23,7 +23,10 @@ A clean SwiftUI interface that respects Light and Dark Mode, with intuitive navi
 Quick Start
 Requirements: Xcode 15+, iOS 17+ (simulator or device)
 
+To commit clone the repo:
 git clone https://github.com/bigjermaine/SwiftTracker.git
+
+
 cd SwiftTracker
 open SwiftTracker.xcodeproj
 Build and run in Xcode (⌘R), then log your first entry.
