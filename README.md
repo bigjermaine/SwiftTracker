@@ -1,6 +1,6 @@
 # SwiftTracker
 
-**SwiftTracker is a privacy-first iOS app for tracking spending and betting activity, turning everyday transactions into actionable insights and healthier financial habits.**
+**SwiftTracker is a privacy-first iOS app for tracking spending  activity, turning everyday transactions into actionable insights and healthier financial habits.**
 
 Rather than functioning as a simple transaction log, SwiftTracker helps users understand behavioral patterns through trend analysis, configurable alerts, and personalized thresholds—all while keeping data under the user's control.
 
